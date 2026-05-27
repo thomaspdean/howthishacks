@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/howthishacks/static/css/main.93198b41.css",
-    "main.js": "/howthishacks/static/js/main.a03ae129.js",
+    "main.css": "/howthishacks/static/css/main.112bf6ed.css",
+    "main.js": "/howthishacks/static/js/main.d1aaed03.js",
+    "static/media/mercor-april-2026.png": "/howthishacks/static/media/mercor-april-2026.63c570c0119d2ab2ff45.png",
+    "static/media/colonial-pipeline-2021.png": "/howthishacks/static/media/colonial-pipeline-2021.4b79a45886355a561c1c.png",
+    "static/media/canvas-hack-may-2026.png": "/howthishacks/static/media/canvas-hack-may-2026.605c99f1c3b70dd6cc10.png",
     "index.html": "/howthishacks/index.html",
-    "main.93198b41.css.map": "/howthishacks/static/css/main.93198b41.css.map",
-    "main.a03ae129.js.map": "/howthishacks/static/js/main.a03ae129.js.map"
+    "main.112bf6ed.css.map": "/howthishacks/static/css/main.112bf6ed.css.map",
+    "main.d1aaed03.js.map": "/howthishacks/static/js/main.d1aaed03.js.map"
   },
   "entrypoints": [
-    "static/css/main.93198b41.css",
-    "static/js/main.a03ae129.js"
+    "static/css/main.112bf6ed.css",
+    "static/js/main.d1aaed03.js"
   ]
 }
