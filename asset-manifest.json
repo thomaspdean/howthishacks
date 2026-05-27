@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/howthishacks/static/css/main.93198b41.css",
+    "main.js": "/howthishacks/static/js/main.a03ae129.js",
+    "index.html": "/howthishacks/index.html",
+    "main.93198b41.css.map": "/howthishacks/static/css/main.93198b41.css.map",
+    "main.a03ae129.js.map": "/howthishacks/static/js/main.a03ae129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93198b41.css",
+    "static/js/main.a03ae129.js"
+  ]
+}
