@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 70">
+  <rect width="200" height="70" fill="#ffffff"/>
+  <text x="4" y="42" font-family="'Fira Code', 'Cascadia Code', 'Consolas', 'SF Mono', monospace" font-size="26" font-weight="300" fill="#111111">how</text>
+  <text x="51" y="42" font-family="'Fira Code', 'Cascadia Code', 'Consolas', 'SF Mono', monospace" font-size="26" font-weight="700" fill="#111111">this</text>
+  <text x="115" y="42" font-family="'Fira Code', 'Cascadia Code', 'Consolas', 'SF Mono', monospace" font-size="26" font-weight="400" fill="#111111">ha</text>
+  <g transform="rotate(40, 151, 33)">
+    <text x="151" y="42" font-family="'Fira Code', 'Cascadia Code', 'Consolas', 'SF Mono', monospace" font-size="26" font-weight="400" fill="#e53535">cks</text>
+  </g>
+</svg>
