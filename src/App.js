@@ -4,6 +4,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './screens/Home';
+import HackVisualizations from './screens/HackVisualizations';
 import SQLInjection from './screens/SQLInjection';
 import Blog from './screens/Blog';
 import About from './screens/About';
@@ -16,6 +17,7 @@ export default function App() {
         <main className="main-content">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/visualizations" element={<HackVisualizations />} />
             <Route path="/sql-injection" element={<SQLInjection />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/about" element={<About />} />
