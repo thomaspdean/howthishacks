@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#111111"/>
+  <!-- Open padlock shackle — right arm raised, drawn in red -->
+  <path d="M10 16 V10 a6 6 0 0 1 12 0" fill="none" stroke="#e53535" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Padlock body -->
+  <rect x="7" y="16" width="18" height="13" rx="2" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <!-- >_ cursor inside the body -->
+  <text x="11" y="25" font-family="'Fira Code','Courier New',monospace" font-size="9" font-weight="700" fill="#ffffff">&gt;_</text>
+</svg>

@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.112bf6ed.css",
-    "main.js": "/static/js/main.7605d79d.js",
+    "main.css": "/static/css/main.ccf4464e.css",
+    "main.js": "/static/js/main.3b754dda.js",
     "static/media/mercor-april-2026.png": "/static/media/mercor-april-2026.63c570c0119d2ab2ff45.png",
+    "static/media/yahoo-2014.png": "/static/media/yahoo-2014.d494723a139ced26b7f7.png",
+    "static/media/mgm-2025.png": "/static/media/mgm-2025.8fdec25ebbd62c1efe33.png",
     "static/media/colonial-pipeline-2021.png": "/static/media/colonial-pipeline-2021.4b79a45886355a561c1c.png",
+    "static/media/iran-stryker-2026.png": "/static/media/iran-stryker-2026.caff73457ef2523666fe.png",
     "static/media/canvas-hack-may-2026.png": "/static/media/canvas-hack-may-2026.605c99f1c3b70dd6cc10.png",
+    "static/media/westjet-2026.png": "/static/media/westjet-2026.4e2620b42ad93ffee2e7.png",
     "index.html": "/index.html",
-    "main.112bf6ed.css.map": "/static/css/main.112bf6ed.css.map",
-    "main.7605d79d.js.map": "/static/js/main.7605d79d.js.map"
+    "main.ccf4464e.css.map": "/static/css/main.ccf4464e.css.map",
+    "main.3b754dda.js.map": "/static/js/main.3b754dda.js.map"
   },
   "entrypoints": [
-    "static/css/main.112bf6ed.css",
-    "static/js/main.7605d79d.js"
+    "static/css/main.ccf4464e.css",
+    "static/js/main.3b754dda.js"
   ]
 }
