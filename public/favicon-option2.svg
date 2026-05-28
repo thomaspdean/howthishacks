@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#ffffff"/>
+  <rect width="32" height="32" fill="none" stroke="#e5e4df" stroke-width="1"/>
+  <text x="2" y="23" font-family="'Fira Code','Courier New',monospace" font-size="16" font-weight="400" fill="#aaa9a3">[</text>
+  <text x="11" y="23" font-family="'Fira Code','Courier New',monospace" font-size="16" font-weight="700" fill="#e53535">h</text>
+  <text x="21" y="23" font-family="'Fira Code','Courier New',monospace" font-size="16" font-weight="400" fill="#aaa9a3">]</text>
+</svg>

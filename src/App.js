@@ -7,6 +7,7 @@ import Home from './screens/Home';
 import HackVisualizations from './screens/HackVisualizations';
 import SQLInjection from './screens/SQLInjection';
 import Blog from './screens/Blog';
+import ColonialPipeline from './screens/ColonialPipeline';
 import About from './screens/About';
 
 export default function App() {
@@ -20,6 +21,7 @@ export default function App() {
             <Route path="/visualizations" element={<HackVisualizations />} />
             <Route path="/sql-injection" element={<SQLInjection />} />
             <Route path="/blog" element={<Blog />} />
+            <Route path="/blog/colonial-pipeline" element={<ColonialPipeline />} />
             <Route path="/about" element={<About />} />
           </Routes>
         </main>
